@@ -1,8 +1,12 @@
 import './Home.css';
+import Cart from '../Cart/Cart';
 
 function Home() {
   return (
-    <>Home</>
+    <>
+    <Cart/>
+    <Cart/>
+    </>
   );
 }
 

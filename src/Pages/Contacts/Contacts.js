@@ -4,7 +4,7 @@ import Title from '../../Components/Title/Title';
 function Contacts() {
   return (
     <section className="Contacts">
-      <Title>Contacting Apple</Title>
+      <Title>Contacting to our Store</Title>
       <h3 className="Contacts_tit">Sales and Product Inquiries</h3>
       <div className="Contacts_in">
         <div className="Contacts_block">
