@@ -1,20 +1,33 @@
-.About_in{
+.About_in {
   margin-bottom: 30px;
 }
-.About_img{
-  width: 40%;
+
+.About_img {
+  width: 100vh;
+  margin: auto;
+  border-radius: 10px;
+  overflow: hidden;
 }
-.About_txt{
+
+.About_txt {
   width: 60%;
-  padding-left: 25px;
+  margin: auto;
+  margin-bottom: 30px;
 }
-.About_bot p{
+
+.About_bot {
+  width: 70%;
+  margin-bottom: 20px;
+  margin: auto;
+  margin-top: 30px;
+
+}
+
+.About_tit {
   margin-bottom: 20px;
 }
-.About_tit{
-  margin-bottom: 20px;
-}
-.About_txt b{
+
+.About_txt b {
   display: block;
   margin-bottom: 8px;
 }
